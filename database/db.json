@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil totam libero quos molestias nesciunt accusantium dolor mollitia voluptate, est nemo esse quam excepturi obcaecati sit cumque adipisci iure doloremque sapiente!",
+      "author": "Geek",
+      "id": 1
+    },
+    {
+      "title": "My Second Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil totam libero quos molestias nesciunt accusantium dolor mollitia voluptate, est nemo esse quam excepturi obcaecati sit cumque adipisci iure doloremque sapiente!",
+      "author": "Rushabh",
+      "id": 2
+    },
+    {
+      "title": "My Third Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil totam libero quos molestias nesciunt accusantium dolor mollitia voluptate, est nemo esse quam excepturi obcaecati sit cumque adipisci iure doloremque sapiente!",
+      "author": "Geek",
+      "id": 3
+    },
+    {
+      "title": "My Fourth Blog",
+      "body": "mjdfhbmjdcbxbn",
+      "author": "Rushabh",
+      "id": 5
+    },
+    {
+      "title": "My Fifth Blog",
+      "body": "mnbbd,jkch,zxnb",
+      "author": "Rushabh",
+      "id": 6
+    }
+  ]
+}
